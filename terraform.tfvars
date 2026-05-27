@@ -1,0 +1,1 @@
+bucket_name = "parthi-terraform-demo-001"
